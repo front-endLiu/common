@@ -1,0 +1,19 @@
+{
+  "name": "common",
+  "version": "1.0.0",
+  "description": "工具",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/front-endLiu/common.git"
+  },
+  "author": "liubin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/front-endLiu/common/issues"
+  },
+  "homepage": "https://github.com/front-endLiu/common#readme"
+}
